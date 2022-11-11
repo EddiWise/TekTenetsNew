@@ -1,0 +1,16 @@
+/*selector {
+	property: value; 
+}*/
+
+body {
+	background-image: url();
+}
+h1 {
+	color: red;
+	text-align: center;
+	border: 3px solid blue;
+}
+
+p {
+	color: blue;
+}
